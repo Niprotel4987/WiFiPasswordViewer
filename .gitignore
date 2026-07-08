@@ -1,17 +1,20 @@
-# Arquivos compilados do Python
+# Python
 __pycache__/
 *.py[cod]
+*.pyo
 
-# Ambiente virtual
-.venv/
+# Virtual Environment
 venv/
-env/
+.venv/
 
-# Arquivos do VS Code
+# VS Code
 .vscode/
 
-# Arquivos exportados pelo programa
+# Exportações
 exports/
 
-# Arquivos temporários
+# Temporários
+temp/
+
+# Logs
 *.log
