@@ -114,7 +114,7 @@ O projeto continuará recebendo novas funcionalidades e melhorias.
 
 **Telmo Bittencourt**
 
-- Curso Superior em Tecnologia da Informação
+- Curso Superior em Tecnologia da Informação UFMS(EAD em andamento)
 - Técnico em Informática
 - GitHub: https://github.com/Niprotel4987
 - LinkedIn: https://www.linkedin.com/in/telmo-bittencourt-8a962b220
